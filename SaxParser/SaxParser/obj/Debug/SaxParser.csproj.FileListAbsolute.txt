@@ -1,0 +1,7 @@
+C:\!Work!\2 КУРС\4 СЕМ\ООТПиСП\LABS\LAB7\SaxParser\SaxParser\bin\Debug\SaxParser.exe.config
+C:\!Work!\2 КУРС\4 СЕМ\ООТПиСП\LABS\LAB7\SaxParser\SaxParser\bin\Debug\SaxParser.exe
+C:\!Work!\2 КУРС\4 СЕМ\ООТПиСП\LABS\LAB7\SaxParser\SaxParser\bin\Debug\SaxParser.pdb
+C:\!Work!\2 КУРС\4 СЕМ\ООТПиСП\LABS\LAB7\SaxParser\SaxParser\obj\Debug\SaxParser.csprojAssemblyReference.cache
+C:\!Work!\2 КУРС\4 СЕМ\ООТПиСП\LABS\LAB7\SaxParser\SaxParser\obj\Debug\SaxParser.csproj.CoreCompileInputs.cache
+C:\!Work!\2 КУРС\4 СЕМ\ООТПиСП\LABS\LAB7\SaxParser\SaxParser\obj\Debug\SaxParser.exe
+C:\!Work!\2 КУРС\4 СЕМ\ООТПиСП\LABS\LAB7\SaxParser\SaxParser\obj\Debug\SaxParser.pdb
